@@ -1,6 +1,6 @@
 # AI, Machine Learning, and Deep Learning Repository
 
-![AI & ML Repository](https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg?im=FeatureCrop,size=(826,465))
+![AI & ML Repository]([images/repo-banner.png](https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg?im=FeatureCrop,size=(826,465)))
 
 Welcome to the **All-in-One** repository, where you'll find everything you need to get started with **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Deep Learning (DL)**! This repo is a comprehensive collection of my work, including **machine learning algorithms**, **deep learning models**, and various **AI projects** that showcase the versatility and potential of these technologies.
 
@@ -58,34 +58,35 @@ Each project includes:
 - Data preprocessing
 - Model training and evaluation
 - Results and discussion
-- 
-Installation
+
+## Installation
 To run any of the scripts or projects in this repository, follow these steps:
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/repo-name.git
-Navigate to the cloned directory:
-bash
-Copy code
-cd repo-name
-Install the necessary dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-Detailed instructions for each algorithm and project are available within their respective folders. For example, to run a machine learning algorithm:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/repo-name.git
+   ```
+2. Navigate to the cloned directory:
+   ```bash
+   cd repo-name
+   ```
+3. Install the necessary dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-Navigate to the specific folder (e.g., machine-learning/linear-regression).
-Run the script:
-bash
-Copy code
-python linear_regression.py
+## Usage
+Detailed instructions for each algorithm and project are available within their respective folders. For example, to run a machine learning algorithm:
+1. Navigate to the specific folder (e.g., `machine-learning/linear-regression`).
+2. Run the script:
+   ```bash
+   python linear_regression.py
+   ```
+
 For deep learning models, make sure you have the appropriate hardware (e.g., GPU) to efficiently train the models.
 
-Contributing
+## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request if you'd like to add new algorithms, improve existing code, or contribute new projects.
 
-License
-This repository is licensed under the MIT License. See the LICENSE file for more information.
+## License
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.

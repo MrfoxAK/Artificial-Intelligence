@@ -1,7 +1,3 @@
-To add an image to your GitHub repo, you need to upload the image file to the repository and reference it in your README. Here's an updated version of the README with instructions on how to include an image:
-
----
-
 # AI, Machine Learning, and Deep Learning Repository
 
 ![AI & ML Repository](https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg?im=FeatureCrop,size=(826,465))
@@ -62,19 +58,3 @@ Each project includes:
 - Data preprocessing
 - Model training and evaluation
 - Results and discussion
-
-## Installation
-To run any of the scripts or projects in this repository, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/repo-name.git
-   ```
-2. Navigate to the cloned directory:
-   ```bash
-   cd repo-name
-   ```
-3. Install the necessary dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```

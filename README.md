@@ -1,6 +1,6 @@
 # AI, Machine Learning, and Deep Learning Repository
 
-![AI & ML Repository]([images/repo-banner.png](https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg?im=FeatureCrop,size=(826,465)))
+![AI & ML Repository](https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg?im=FeatureCrop,size=(826,465))
 
 Welcome to the **All-in-One** repository, where you'll find everything you need to get started with **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Deep Learning (DL)**! This repo is a comprehensive collection of my work, including **machine learning algorithms**, **deep learning models**, and various **AI projects** that showcase the versatility and potential of these technologies.
 

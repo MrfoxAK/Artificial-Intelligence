@@ -78,31 +78,4 @@ To run any of the scripts or projects in this repository, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
-
-## Usage
-Detailed instructions for each algorithm and project are available within their respective folders. For example, to run a machine learning algorithm:
-1. Navigate to the specific folder (e.g., `machine-learning/linear-regression`).
-2. Run the script:
-   ```bash
-   python linear_regression.py
-   ```
-
-For deep learning models, make sure you have the appropriate hardware (e.g., GPU) to efficiently train the models.
-
-## Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request if you'd like to add new algorithms, improve existing code, or contribute new projects.
-
-## License
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
-
-### How to Add the Image:
-1. Create a folder named `images` in your repo.
-2. Upload your banner or any other image (e.g., `repo-banner.png`) to the `images` folder.
-3. Reference the image in your README with the correct file path:
-   ```markdown
    ![AI & ML Repository](images/repo-banner.png)
-   ```
-
-This will add the image to your README file. You can change the image path and filename based on what you upload.
